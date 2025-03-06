@@ -18,11 +18,27 @@ This roadmap outlines the steps to build Famora, a family-only social media webs
    - Study platforms like Facebook Groups or FamilyWall for inspiration.
 
 3. **Choose a Tech Stack**:
-   - **Frontend**: HTML, CSS, JavaScript, React.js, or Vue.js.
-   - **Backend**: Node.js with Express, Django, or Flask.
-   - **Database**: MySQL, PostgreSQL, or MongoDB.
-   - **Authentication**: OAuth, JWT, or Firebase Authentication.
-   - **Hosting**: AWS, Heroku, Vercel, or Netlify.
+   - **Frontend**:
+     - **Framework**: [React.js](https://reactjs.org/)  
+     - **Styling**: [Tailwind CSS](https://tailwindcss.com/)  
+     - **State Management**: [Redux Toolkit](https://redux-toolkit.js.org/)  
+     - **Routing**: [React Router](https://reactrouter.com/)  
+   - **Backend**:
+     - **Framework**: [Node.js](https://nodejs.org/) with [Express.js](https://expressjs.com/)  
+     - **Authentication**: [Firebase Authentication](https://firebase.google.com/products/auth)  
+     - **Real-Time Features**: [Socket.IO](https://socket.io/)  
+   - **Database**:
+     - **Database**: [MongoDB](https://www.mongodb.com/)  
+     - **ORM/ODM**: [Mongoose](https://mongoosejs.com/)  
+   - **Hosting**:
+     - **Frontend**: [Vercel](https://vercel.com/)  
+     - **Backend**: [Render](https://render.com/) or [Heroku](https://www.heroku.com/)  
+     - **Database**: [MongoDB Atlas](https://www.mongodb.com/cloud/atlas)  
+   - **Additional Tools**:
+     - **Version Control**: [Git](https://git-scm.com/) + [GitHub](https://github.com/)  
+     - **Design Tool**: [Figma](https://www.figma.com/)  
+     - **Testing**: [Jest](https://jestjs.io/) + [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/)  
+     - **API Testing**: [Postman](https://www.postman.com/)  
 
 4. **Create Wireframes**:
    - Sketch the layout using tools like Figma or Adobe XD.
