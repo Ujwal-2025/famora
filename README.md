@@ -5,7 +5,7 @@
 
 ## 🚀 Project Roadmap
 
-This roadmap outlines the steps to build Famora, a family-only social media website. Follow these phases to develop the project successfully.
+This roadmap outlines the steps to build Famora, a family-only social media website. We have the folowing points to think about to make sure we know what we are doing.
 
 <hr>
 
