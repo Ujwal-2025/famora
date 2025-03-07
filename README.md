@@ -1,5 +1,5 @@
 <h1 align="center">Famora - Family Social Media Website</h1>
-<p align="center">A private social media platform for family members to share updates, photos, and events.</p>
+<p align="left">A private social media platform for family members to share updates, photos, and events.</p>
 
 <hr>
 
