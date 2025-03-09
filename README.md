@@ -19,7 +19,8 @@ This roadmap outlines the steps to build Famora, a family-only social media webs
 
 3. **Choose a Tech Stack**:
    - **Frontend**:
-     - **Framework**: [React.js]([https://reactjs.org/](https://youtu.be/SqcY0GlETPk?si=68YidZrVrbTwwPP6))  
+     - **Framework**: [React.js]([https://reactjs.org/])  
+       - Videos to watch: [Videos](https://youtu.be/SqcY0GlETPk?si=68YidZrVrbTwwPP6)
      - **Styling**: [Tailwind CSS](https://tailwindcss.com/)  
      - **State Management**: [Redux Toolkit](https://redux-toolkit.js.org/)  
      - **Routing**: [React Router](https://reactrouter.com/)  
